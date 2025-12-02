@@ -1,0 +1,10 @@
+/vendor/
+/pub/media/
+/pub/static/
+generated/
+/var/cache/
+/var/log/
+/var/page_cache/
+/var/view_preprocessed/
+app/etc/env.php
+app/etc/config.php
