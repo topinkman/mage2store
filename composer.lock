@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "495f27b9ab91df6cc990cad70871f1cd",
+    "content-hash": "0e579a03f619285a340c8e6f4db6586c",
     "packages": [
         {
             "name": "2tvenom/cborencode",
@@ -18555,6 +18555,135 @@
             "time": "2024-12-18T14:59:28+00:00"
         },
         {
+            "name": "mageplaza/magento-2-arabic-language-pack",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mageplaza/magento-2-arabic-language-pack.git",
+                "reference": "ba75ac07cd8bc9a68bf836aebf24950bcfb23790"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mageplaza/magento-2-arabic-language-pack/zipball/ba75ac07cd8bc9a68bf836aebf24950bcfb23790",
+                "reference": "ba75ac07cd8bc9a68bf836aebf24950bcfb23790",
+                "shasum": ""
+            },
+            "require": {
+                "mageplaza/module-core": "^1.3.13"
+            },
+            "default-branch": true,
+            "type": "magento2-language",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mageplaza team",
+                    "email": "hi@mageplaza.com",
+                    "homepage": "https://www.mageplaza.com",
+                    "role": "Leader"
+                }
+            ],
+            "description": "Arabic language package for Magento 2",
+            "homepage": "https://www.mageplaza.com",
+            "support": {
+                "issues": "https://github.com/mageplaza/magento-2-arabic-language-pack/issues",
+                "source": "https://github.com/mageplaza/magento-2-arabic-language-pack/tree/master"
+            },
+            "time": "2022-02-22T09:03:37+00:00"
+        },
+        {
+            "name": "mageplaza/magento-2-french-language-pack",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mageplaza/magento-2-french-language-pack.git",
+                "reference": "f9ce09d3c874bdcb155af5ae378145c4fcf5a76f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mageplaza/magento-2-french-language-pack/zipball/f9ce09d3c874bdcb155af5ae378145c4fcf5a76f",
+                "reference": "f9ce09d3c874bdcb155af5ae378145c4fcf5a76f",
+                "shasum": ""
+            },
+            "require": {
+                "mageplaza/module-core": "^1.3.13"
+            },
+            "default-branch": true,
+            "type": "magento2-language",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mageplaza team",
+                    "email": "hi@mageplaza.com",
+                    "homepage": "https://www.mageplaza.com",
+                    "role": "Leader"
+                }
+            ],
+            "description": "French language package for Magento 2",
+            "homepage": "https://www.mageplaza.com",
+            "support": {
+                "issues": "https://github.com/mageplaza/magento-2-french-language-pack/issues",
+                "source": "https://github.com/mageplaza/magento-2-french-language-pack/tree/master"
+            },
+            "time": "2023-04-28T02:08:57+00:00"
+        },
+        {
+            "name": "mageplaza/module-core",
+            "version": "1.5.15",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mageplaza/module-core.git",
+                "reference": "c527e66bf483f74d1dc3013dc64b2eefa6e8ecc6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mageplaza/module-core/zipball/c527e66bf483f74d1dc3013dc64b2eefa6e8ecc6",
+                "reference": "c527e66bf483f74d1dc3013dc64b2eefa6e8ecc6",
+                "shasum": ""
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Mageplaza\\Core\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Mageplaza",
+                    "email": "support@mageplaza.com",
+                    "homepage": "https://www.mageplaza.com",
+                    "role": "Technical Support"
+                }
+            ],
+            "description": "Mageplaza Core for Magento 2",
+            "support": {
+                "source": "https://github.com/mageplaza/module-core/tree/v1.5.15"
+            },
+            "time": "2025-10-21T07:24:34+00:00"
+        },
+        {
             "name": "marc-mabe/php-enum",
             "version": "v4.7.1",
             "source": {
@@ -29141,6 +29270,8 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
+        "mageplaza/magento-2-arabic-language-pack": 20,
+        "mageplaza/magento-2-french-language-pack": 20,
         "pdepend/pdepend": 20,
         "phpmd/phpmd": 20
     },
@@ -29148,5 +29279,5 @@
     "prefer-lowest": false,
     "platform": {},
     "platform-dev": {},
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.9.0"
 }

@@ -32,3 +32,4 @@ Thumbs.db
 /auth.json
 
 /.history/
+!/vendor/mageplaza
