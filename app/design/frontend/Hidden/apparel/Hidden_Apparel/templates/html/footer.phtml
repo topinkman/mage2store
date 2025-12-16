@@ -63,7 +63,7 @@ $copyrightRightBlock = $helper->getConfigValue('apparelsettings/footer_bottom/co
                     <div class="footer-links-column">
                         <div class="footer-colum-title desktop-hide">
                             <h3>
-                                Quick Contact
+                                <?= __('Quick Contact') ?>
                             </h3>
                         </div>
                         <div class="footer-column-content">
@@ -76,13 +76,13 @@ $copyrightRightBlock = $helper->getConfigValue('apparelsettings/footer_bottom/co
                                 <?php } ?>                               
                                 <?php if ($phone != '') { ?>
                                     <p class="phone">
-                                        <span><?php echo $phone; ?></span>
+                                        <span><?php echo __($phone); ?></span>
                                     </p>
                                 <?php } ?>
                                 <?php if ($email != '') { ?>
                                     <p class="email">                                        
                                         <span>
-                                            <a href="mailto:<?php echo $email; ?>" title="Mail to: <?php echo $email; ?>"><?php echo $email; ?></a>
+                                            <a href="mailto:<?php echo $email; ?>" title="Mail to: <?php echo $email; ?>"><?php echo __($email); ?></a>
                                         </span>
                                     </p>
                                 <?php } ?>

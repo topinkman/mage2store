@@ -15151,7 +15151,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","تم رفض المعاملة",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"My Account","My Account",theme,frontend/Magento/blank
+"My Account","حسابي",theme,frontend/Magento/blank
 "Now Shopping by","تسوق الآن من",theme,frontend/Magento/luma
 "Previous","السابق",theme,frontend/Magento/luma
 "Remove","ازالة",theme,frontend/Magento/luma
@@ -15331,3 +15331,16 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a date from the past.","الرجاء إدخال تاريخ من الماضي.",lib,web
 "custom.definition","custom.definition",lib,web
 "component.behaviours","component.behaviours",lib,web
+"new products","منتجات جديدة"
+"What client say","ماذا قال زبناؤنا"
+"Quick Links","روابط سريعة"
+"My Compare","مقارنتي"
+"My Wishlist","قائمة أمنياتي"
+"Payment and Shipping","الدفع والشحن"
+"Terms of Use","شروط الاستخدام"
+"Shipping Guide","دليل الشحن"
+"Order Tracking","تتبع الطلب"
+"Return % Exchange","الإرجاع والاستبدال"
+"Quick Contact","اتصال سريع"
+"Phone: +212 657706169","0657706169 : الهاتف"
+"Email: info@novaargent.com","info@novaargent.com : الايميل"

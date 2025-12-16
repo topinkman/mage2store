@@ -15316,3 +15316,15 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a date from the past.","Veuillez entrer une date dans le passé.",lib,web
 "custom.definition","custom.definition",lib,web
 "component.behaviours","component.behaviours",lib,web
+"new products","Nouveaux Produits"
+"What client say","Ce que disent nos clients"
+"Quick Links","Liens rapides"
+"My Compare","Ma comparaison"
+"My Wishlist","Ma liste de souhaits"
+"Payment and Shipping","Paiement et livraison"
+"Terms of Use","Conditions d'utilisation"
+"Shipping Guide","Guide d'expédition"
+"Order Tracking","Suivi des commandes"
+"Return % Exchange","Retour et échange"
+"Quick Contact","Contact rapide"
+"Phone: +212 657706169","Téléphone: +212 657706169"
