@@ -15328,3 +15328,5 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Return % Exchange","Retour et échange"
 "Quick Contact","Contact rapide"
 "Phone: +212 657706169","Téléphone: +212 657706169"
+"Allow remote shopping assistance","Autoriser l'assistance aux achats à distance"
+"This allows merchants to "see what you see" and take actions on your behalf in order to provide better assistance.","Cela permet aux commerçants de « voir ce que vous voyez » et d'agir en votre nom afin de vous apporter une meilleure assistance."

@@ -2816,7 +2816,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Search results for: '%1'","نتائج البحث عن: '%1'",module,Magento_CatalogSearch
 "Minimum Search query length is %1","الحد الأدنى لطول استعلام البحث هو %1",module,Magento_CatalogSearch
 "Search term is empty","Search term is empty",module,Magento_CatalogSearch
-"Enter a search term and try again.","Enter a search term and try again.",module,Magento_CatalogSearch
+"Enter a search term and try again.","أدخل مصطلح البحث وحاول مرة أخرى.",module,Magento_CatalogSearch
 "%1 and greater","%1 وأكبر",module,Magento_CatalogSearch
 "up to %1","حتى %1",module,Magento_CatalogSearch
 "Default product collection strategy not found","Default product collection strategy not found",module,Magento_CatalogSearch
@@ -4037,7 +4037,7 @@ Maximum 255 characters are allowed.,module,Magento_CompanyCredit
 "This company has no payment methods. Please contact store administrator.","هذه الشركة لاتملك وسائل دفع. الرجاء التواصل بمسؤول المتجر.",module,Magento_CompanyPayment
 "Default B2B Payment Methods","طرق الدفع الB2B الإفتراضية",module,Magento_CompanyPayment
 "Applicable Payment Methods","طرق الدفع المطبقة",module,Magento_CompanyPayment
-"Payment Methods","نظم الدفع",module,Magento_CompanyPayment
+"Payment Methods","طرق الدفع",module,Magento_CompanyPayment
 "By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.","بشكل افتراضي ، تتوفر طرق الدفع المحددة لجميع الشركات الجديدة. إذا كان موقع Magento الخاص بك يحتوي على مواقع ويب متعددة ، فسيتمكن المشتري من موقع ويب محدد من الدفع بالطرق المتاحة لذلك الموقع فقط.",module,Magento_CompanyPayment
 "Payment Information (View)","معلومات الدفع (عرض)",module,Magento_CompanyPayment
 "Use config settings","استخدام إعدادات التكوين",module,Magento_CompanyPayment
@@ -4491,9 +4491,9 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Action","إجراء",module,Magento_Customer
 "Configure","ضبط",module,Magento_Customer
 "Shopping Cart from %1","سلة التسوق من %1",module,Magento_Customer
-"Newsletter","القائمة البريدية",module,Magento_Customer
-"Newsletter Information","معلومات القائمة البريدية",module,Magento_Customer
-"Subscribed to Newsletter","اشتركت في القائمة البريدية",module,Magento_Customer
+"Newsletter","رسائل إخبارية",module,Magento_Customer
+"Newsletter Information","معلومات الرسائل الإخبارية",module,Magento_Customer
+"Subscribed to Newsletter","اشتركت في الرسائل الإخبارية",module,Magento_Customer
 "Subscribed on Store View","Subscribed on Store View",module,Magento_Customer
 "Last Date Subscribed","اخر تاريخ للاشتراك",module,Magento_Customer
 "Last Date Unsubscribed","اخر تاريخ لالغاء الاشتراك",module,Magento_Customer
@@ -5016,9 +5016,9 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Group","مجموعة",module,Magento_Customer
 "Add New Customer","أضف عميل جديد",module,Magento_Customer
 "Are you sure you want to delete the selected customers?","Are you sure you want to delete the selected customers?",module,Magento_Customer
-"Subscribe to Newsletter","الاشتراك في القائمة البريدية",module,Magento_Customer
+"Subscribe to Newsletter","الاشتراك في الرسائل الإخبارية",module,Magento_Customer
 "Are you sure you want to unsubscribe the selected customers from the newsletter?","Are you sure you want to unsubscribe the selected customers from the newsletter?",module,Magento_Customer
-"Unsubscribe from Newsletter","إلغاء الاشتراك من القائمة البريدية",module,Magento_Customer
+"Unsubscribe from Newsletter","إلغاء الاشتراك من الرسائل الإخبارية",module,Magento_Customer
 "ZIP","الرمز البريدي",module,Magento_Customer
 "Customer Since","عميل منذ",module,Magento_Customer
 "Confirmed email","تأكيد البريد الإلكتروني",module,Magento_Customer
@@ -5026,7 +5026,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Tax VAT Number","رقم ضريبة القيمة المضافة",module,Magento_Customer
 "Gender","النوع",module,Magento_Customer
 "Billing Firstname","Billing Firstname",module,Magento_Customer
-"Billing Lastname","الإسم الأخير للفواتير",module,Magento_Customer
+"Billing Lastname","االإسم العائلي للفواتير",module,Magento_Customer
 "Account Lock","Account Lock",module,Magento_Customer
 "Last Activity","اخر نشاط",module,Magento_Customer
 "Type","النوع",module,Magento_Customer
@@ -5375,8 +5375,8 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "exists","موجود",module,Magento_CustomerSegment
 "does not exist","غير موجود",module,Magento_CustomerSegment
 "Customer %1","العميل %1",module,Magento_CustomerSegment
-"Newsletter Subscription","الاشتراك بالقائمة البريدية",module,Magento_CustomerSegment
-"Customer is %1 to newsletter.","العميل %1 في القائمة البريدية.",module,Magento_CustomerSegment
+"Newsletter Subscription","الاشتراك بالرسائل الإخبارية",module,Magento_CustomerSegment
+"Customer is %1 to newsletter.","العميل %1 في الرسائل الإخبارية.",module,Magento_CustomerSegment
 "subscribed","مشترك",module,Magento_CustomerSegment
 "not subscribed","غير مشترك",module,Magento_CustomerSegment
 "Store Credit","نقاط المتجر",module,Magento_CustomerSegment
@@ -8498,7 +8498,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Please correct the newsletter template and try again.","Please correct the newsletter template and try again.",module,Magento_Newsletter
 "You saved the newsletter queue.","You saved the newsletter queue.",module,Magento_Newsletter
 "Newsletter Subscribers","مشتركو النشرة البريدية",module,Magento_Newsletter
-"Newsletter","القائمة البريدية",module,Magento_Newsletter
+"Newsletter","الرسائل الإخبارية",module,Magento_Newsletter
 "Subscribers","مشتركون",module,Magento_Newsletter
 "Please select one or more subscribers.","Please select one or more subscribers.",module,Magento_Newsletter
 "Total of %1 record(s) were deleted.","Total of %1 record(s) were deleted.",module,Magento_Newsletter
@@ -8510,7 +8510,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Create Newsletter Template","إنشاء قالب نشرة بريدية",module,Magento_Newsletter
 "The newsletter template has been saved.","The newsletter template has been saved.",module,Magento_Newsletter
 "Something went wrong while saving this template.","Something went wrong while saving this template.",module,Magento_Newsletter
-"Newsletter Subscription","الاشتراك بالقائمة البريدية",module,Magento_Newsletter
+"Newsletter Subscription","الاشتراك بالرسائل الإخبارية",module,Magento_Newsletter
 "Something went wrong while saving your subscription.","Something went wrong while saving your subscription.",module,Magento_Newsletter
 "We have saved your subscription.","We have saved your subscription.",module,Magento_Newsletter
 "A confirmation request has been sent.","A confirmation request has been sent.",module,Magento_Newsletter
@@ -8599,7 +8599,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Web Site","موقع",module,Magento_Newsletter
 "Store","متجر",module,Magento_Newsletter
 "Store View","عرض المتجر",module,Magento_Newsletter
-"Newsletter Subscriptions","الاشتراك بالقائمة البريدية",module,Magento_Newsletter
+"Newsletter Subscriptions","الاشتراك بالرسائل الإخبارية",module,Magento_Newsletter
 "Purchase order number is a required field.","Purchase order number is a required field.",module,Magento_OfflinePayments
 "Make Check payable to:","تقديم شيك مستحق الدفع لـ:",module,Magento_OfflinePayments
 "Send Check to:","ارسل الشيك الى:",module,Magento_OfflinePayments
@@ -8766,7 +8766,7 @@ If field is empty default value localhost will be saved.","دخول قائمة �
 "Incorrect credit card expiration year.","Incorrect credit card expiration year.",module,Magento_Payment
 "Payment Methods Section","Payment Methods Section",module,Magento_Payment
 "Payment Services","Payment Services",module,Magento_Payment
-"Payment Methods","نظم الدفع",module,Magento_Payment
+"Payment Methods","طرق الدفع",module,Magento_Payment
 "Zero Subtotal Checkout","Zero Subtotal Checkout",module,Magento_Payment
 "Enabled","Enabled",module,Magento_Payment
 "New Order Status","New Order Status",module,Magento_Payment
@@ -10991,7 +10991,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "* - Enter custom price excluding tax","* - Enter custom price excluding tax",module,Magento_Sales
 "Configure","ضبط",module,Magento_Sales
 "This product does not have any configurable options","هذا المنتج ليس لديه أية خيارات للتخصيص",module,Magento_Sales
-"Newsletter Subscription","الاشتراك بالقائمة البريدية",module,Magento_Sales
+"Newsletter Subscription","الاشتراك بالرسائل الإخبارية",module,Magento_Sales
 "Please select products","Please select products",module,Magento_Sales
 "Add Selected Product(s) to Order","اضف المنتج المختار الى الطلب",module,Magento_Sales
 "ID","التعريف",module,Magento_Sales
@@ -11494,7 +11494,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Please select","أختر من فضلك",module,Magento_Sales
 "Move to Shopping Cart","الانتقال إلى سلة التسوق",module,Magento_Sales
 "Move to Wish List","الانتقال إلى قائمة الامنيات",module,Magento_Sales
-"Subscribe to Newsletter","الاشتراك في القائمة البريدية",module,Magento_Sales
+"Subscribe to Newsletter","الاشتراك في الرسائل الإخبارية",module,Magento_Sales
 "Click to change shipping method","اضغط لتغيير طريقة الشحن",module,Magento_Sales
 "Sorry, no quotes are available for this order.","Sorry, no quotes are available for this order.",module,Magento_Sales
 "Get shipping methods and rates","الحصول على طرق ومعدلات الشحن",module,Magento_Sales
@@ -11588,7 +11588,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Gift Message for this Order","رسالة الإهداء لهذا الطلب",module,Magento_Sales
 "Shipped By","شحنت بواسطة",module,Magento_Sales
 "Tracking Number","رقم التتبع",module,Magento_Sales
-"Billing Last Name","الإسم الأخير للفواتير",module,Magento_Sales
+"Billing Last Name","االإسم العائلي للفواتير",module,Magento_Sales
 "Find Order By","ايجاد الطلب بواسطة",module,Magento_Sales
 "ZIP Code","الرمز البريدي",module,Magento_Sales
 "Billing ZIP Code","الرمز البريدي للفاتوترة",module,Magento_Sales
@@ -13135,7 +13135,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Refund Offline","رد خارج الشبكة",module,Magento_Support
 "Partial Refund Offline","Partial Refund Offline",module,Magento_Support
 "Payments Functionality Matrix","Payments Functionality Matrix",module,Magento_Support
-"Payment Methods","نظم الدفع",module,Magento_Support
+"Payment Methods","طرق الدفع",module,Magento_Support
 "Shipping Methods","طريقة الشحن",module,Magento_Support
 "Job Code","Job Code",module,Magento_Support
 "Cron Expression","Cron Expression",module,Magento_Support
@@ -13883,7 +13883,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "of","من",module,Magento_Ui
 "Custom","Custom",module,Magento_Ui
 "per page","per page",module,Magento_Ui
-"Search","Search",module,Magento_Ui
+"Search","بحث",module,Magento_Ui
 "Sort by","Sort by",module,Magento_Ui
 "To Start","To Start",module,Magento_Ui
 "To End","To End",module,Magento_Ui
@@ -15344,3 +15344,9 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Quick Contact","اتصال سريع"
 "Phone: +212 657706169","0657706169 : الهاتف"
 "Email: info@novaargent.com","info@novaargent.com : الايميل"
+"Search","بحث"
+"Short Description","وصف مختصر"
+"Customer Login","تسجيل دخول الزبون"
+"Show Password","إظهار كلمة المرور"
+"Allow remote shopping assistance","السماح بمساعدة التسوق عن بعد"
+"This allows merchants to "see what you see" and take actions on your behalf in order to provide better assistance.","وهذا يسمح للتجار "برؤية ما تراه" واتخاذ إجراءات نيابة عنك من أجل تقديم مساعدة أفضل."

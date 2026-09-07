@@ -12,11 +12,11 @@ $newsletterStatic = $helper->getConfigValue('apparelsettings/newsletter_settings
 ?>
 <div class="newsletter-title">
     <h2>
-        <?php echo $newsletterTitle; ?>
+        <?php echo __($newsletterTitle); ?>
     </h2>
 </div>
 <div class="block newsletter">
-    <div class="title"><strong>Newsletter</strong></div>
+    <div class="title"><strong><?php echo __('Newsletter')?></strong></div>
     <div class="content">
         <form class="form subscribe"
               novalidate
