@@ -34,5 +34,7 @@ echo ""
 
 echo "----- [7/7] Cache leeren und aktivieren -----"
 php bin/magento cache:flush
+echo "Cache geleert ."
+
 php bin/magento cache:enable
-echo "Cache geleert und aktiviert."
+echo "Cache aktiviert."
