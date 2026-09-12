@@ -21,7 +21,7 @@ $server2 = [
     'port' => 3306,
     'user' => 'root',
     'pass' => 'NewPass123!',
-    'db'   => 'mage2store_befor_theme',
+    'db'   => 'mage2store_main',
 ];
  
 // Tables li khassahom ytnaqaw mn comparison (dynamic content, machi mohim)
